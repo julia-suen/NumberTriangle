@@ -29,7 +29,7 @@ import java.util.Arrays;
  *
  */
 public class NumberTriangle {
-
+    // test code review
     private int root;
 
     private NumberTriangle left;
